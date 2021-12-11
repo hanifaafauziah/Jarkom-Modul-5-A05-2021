@@ -499,5 +499,13 @@ Tuliskan pesan pada **client**, maka pesan tersebut akan ditampilkan pada **main
 
 ![image](https://user-images.githubusercontent.com/80946219/145601668-ecf6c075-8644-4abc-8c37-44b5838b3d9e.png)
 
+![image](https://user-images.githubusercontent.com/80946219/145674233-233860aa-91f0-42af-b3b3-1b121e90a0ce.png)
+
+![image](https://user-images.githubusercontent.com/80946219/145674212-81550e48-c8b8-4ba9-9636-f80e7ca46309.png)
+
+# Kendala
+Nomor 2 Output port 80 udah dilakukan filtered tapi ketika dilakukan nmap outputnya masih open
+
+Bingung cara melakukan testing nya
 
 
